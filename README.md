@@ -12,9 +12,8 @@ The raw data can be found in the zip file "Data.zip" and the code for data clean
 To clean up the data, please run the file "main.py". All supporting packages need to be in the same folder as this particular file. The final output of this file will also be dumped in the same folder: "FINAL_PBP_DATA.csv"
 The data clean-up procedure is describe in detail in the file "Viraj Modak Capstone Project 1 Data Wrangling Report.pdf"
 
----
 The code used in data clean-up will is the only code in a ".py" format. Subsequent code is in the form of a Jupyter IPython notebook ".ipynb"
----
+
 
 ### Exploratory Data Analysis ###
 EDA was performed to explore preliminary trends seen in the data. The detailed report along with the code is presented in the Jupyter Notebook "VirajModak_Capstone1_DataStorytelling.ipynb"
